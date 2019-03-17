@@ -14,7 +14,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Before starting
 
-After cloning the project or after pulling new changes, you should install/refresh the app and the integration tests dependencies:
+After cloning the project or after pulling new changes, install/refresh the app and tests dependencies:
 
 ```bash
 $ npm install
